@@ -1,0 +1,9 @@
+{
+  "name": "KvantLattice",
+  "export": "Assets",
+  "dependencies": [
+    "local/StandardAssetsEffects",
+    "kennelbound-unity/KvantReaktion",
+    "kennelbound-unity/KvantUtils"
+  ]
+}
